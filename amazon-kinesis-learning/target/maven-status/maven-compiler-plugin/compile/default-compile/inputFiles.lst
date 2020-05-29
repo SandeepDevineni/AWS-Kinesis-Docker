@@ -1,0 +1,7 @@
+/Users/sandeepdevineni/git/amazon-kinesis-learning/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradeRecordProcessor.java
+/Users/sandeepdevineni/git/amazon-kinesis-learning/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradeRecordProcessorFactory.java
+/Users/sandeepdevineni/git/amazon-kinesis-learning/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/model/StockTrade.java
+/Users/sandeepdevineni/git/amazon-kinesis-learning/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/writer/StockTradeGenerator.java
+/Users/sandeepdevineni/git/amazon-kinesis-learning/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/writer/StockTradesWriter.java
+/Users/sandeepdevineni/git/amazon-kinesis-learning/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradesProcessor.java
+/Users/sandeepdevineni/git/amazon-kinesis-learning/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockStats.java
