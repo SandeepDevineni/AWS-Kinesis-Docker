@@ -29,18 +29,13 @@ package com.amazonaws.services.kinesis.samples.stocktrades.processor;
  * permissions and limitations under the License.
  */
 
-
 import software.amazon.kinesis.processor.ShardRecordProcessor;
 import software.amazon.kinesis.processor.ShardRecordProcessorFactory;
 
-/**
- * Used to create new stock trade record processors.
- *
- */
+/** Used to create new stock trade record processors. */
 public class StockTradeRecordProcessorFactory implements ShardRecordProcessorFactory {
-    @Override
-    public ShardRecordProcessor shardRecordProcessor() {
-        return new StockTradeRecordProcessor();
-    }
-
+  @Override
+  public ShardRecordProcessor shardRecordProcessor() {
+    return new StockTradeRecordProcessor();
+  }
 }

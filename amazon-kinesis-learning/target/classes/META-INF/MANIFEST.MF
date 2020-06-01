@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 14
+Class-Path: slf4j-api-1.7.25.jar slf4j-log4j12-1.7.25.jar log4j-1.2.17.j
+ ar amazon-kinesis-client-2.2.9.jar kinesis-2.10.66.jar aws-cbor-protoco
+ l-2.10.66.jar jackson-dataformat-cbor-2.10.0.jar jackson-core-2.10.0.ja
+ r aws-json-protocol-2.10.66.jar protocol-core-2.10.66.jar sdk-core-2.10
+ .66.jar profiles-2.10.66.jar jackson-databind-2.10.0.jar auth-2.10.66.j
+ ar eventstream-1.0.1.jar http-client-spi-2.10.66.jar regions-2.10.66.ja
+ r jackson-annotations-2.9.0.jar annotations-2.10.66.jar utils-2.10.66.j
+ ar aws-core-2.10.66.jar apache-client-2.10.66.jar httpclient-4.5.9.jar 
+ commons-codec-1.11.jar httpcore-4.4.11.jar dynamodb-2.10.66.jar cloudwa
+ tch-2.10.66.jar aws-query-protocol-2.10.66.jar netty-nio-client-2.10.66
+ .jar netty-codec-http-4.1.42.Final.jar netty-codec-http2-4.1.42.Final.j
+ ar netty-codec-4.1.42.Final.jar netty-transport-4.1.42.Final.jar netty-
+ resolver-4.1.42.Final.jar netty-common-4.1.42.Final.jar netty-buffer-4.
+ 1.42.Final.jar netty-handler-4.1.42.Final.jar netty-transport-native-ep
+ oll-4.1.42.Final-linux-x86_64.jar netty-transport-native-unix-common-4.
+ 1.42.Final.jar netty-reactive-streams-http-2.0.4.jar netty-reactive-str
+ eams-2.0.4.jar reactive-streams-1.0.2.jar guava-26.0-jre.jar jsr305-3.0
+ .2.jar checker-qual-2.5.2.jar error_prone_annotations-2.1.3.jar j2objc-
+ annotations-1.1.jar animal-sniffer-annotations-1.14.jar protobuf-java-2
+ .6.1.jar commons-lang3-3.8.1.jar rxjava-2.1.14.jar commons-logging-1.2.
+ jar
+Main-Class: com.amazonaws.services.kinesis.samples.stocktrades.processor
+ .StockTradesProcessor
+Created-By: Maven Integration for Eclipse
+
